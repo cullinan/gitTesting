@@ -1,2 +1,2 @@
-master branch CHANGED internalChange
+master branch CHANGED internalChange +  externalChange
 now on branchNumber2
